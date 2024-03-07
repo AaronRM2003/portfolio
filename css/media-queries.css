@@ -112,10 +112,12 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #CC5200;
+		background-color: #00a0cc;
 		position: relative;
-      border: none;
+      border: 1px;
+      border-radius: 50%;
       float: right;
+      margin-top: 10%;
 
       font: 0/0 a;
       text-shadow: none;
